@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1766087686 source:c:\users\user\desktop\machine a bonbon\machine_a_bonbon\combinaison.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"combinaison.h"
+
+1766087686 c:\users\user\desktop\machine a bonbon\machine_a_bonbon\combinaison.h
+
+1766087686 source:c:\users\user\desktop\machine a bonbon\machine_a_bonbon\score.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"score.h"
+
+1766087686 c:\users\user\desktop\machine a bonbon\machine_a_bonbon\score.h
+
+1766087697 source:c:\users\user\desktop\machine a bonbon\machine_a_bonbon\distributeur.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"distributeur.h"
+
+1766087686 c:\users\user\desktop\machine a bonbon\machine_a_bonbon\distributeur.h
+	"bonbon.h"
+
+1766087686 c:\users\user\desktop\machine a bonbon\machine_a_bonbon\bonbon.h
+
+1766087686 source:c:\users\user\desktop\machine a bonbon\machine_a_bonbon\bonbon.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bonbon.h"
+
+1766087686 source:c:\users\user\desktop\machine a bonbon\machine_a_bonbon\joueur.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"joueur.h"
+
+1766087686 c:\users\user\desktop\machine a bonbon\machine_a_bonbon\joueur.h
+
+1766087704 source:c:\users\user\desktop\machine a bonbon\machine_a_bonbon\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"bonbon.h"
+	"combinaison.h"
+	"distributeur.h"
+	"joueur.h"
+	"score.h"
+
